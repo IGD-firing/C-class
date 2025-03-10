@@ -1,2 +1,2 @@
 # C-class
-WSU/ANDICOTT/AIBIGDATA/CProgrammingClassonly
+WSU/ANDICOTT/AIBIGDATA/CProgrammingClassonly/practice
